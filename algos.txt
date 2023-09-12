@@ -4,8 +4,8 @@ Step 1: we first convert to array of string.
 
             word: k a y a k
 
-Step 2: we break the word
+Step 2: we break the word.
 
-Step 3: we compare the letter at the beginning to the letter at the end
+Step 3: we compare the letter at the beginning to the letter at the end.
 
 Step 4: if the letters are same you swap.
